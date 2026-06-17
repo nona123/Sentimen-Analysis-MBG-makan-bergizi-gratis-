@@ -133,10 +133,7 @@ beserta nilai akurasi dan metrik evaluasi lainnya.
 
 ## 👨‍💻 Author
 
-Nama Anda
+Nelsi
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
